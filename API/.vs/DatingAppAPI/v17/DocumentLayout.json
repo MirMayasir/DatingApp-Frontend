@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\reopsitories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:reopsitories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\data\\dataseed.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:data\\dataseed.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\migrations\\20241019161324_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:migrations\\20241019161324_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\model\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:model\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\extensions\\agecalculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:extensions\\agecalculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\middleware\\middlewereexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:middleware\\middlewereexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\errors\\apiexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:errors\\apiexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|c:\\users\\mayasar\\desktop\\datingapp\\api\\datingappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41C1C89B-A756-4EF6-9C67-E4DE006C05B9}|DatingAppAPI.csproj|solutionrelative:datingappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Reopsitories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Reopsitories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Reopsitories\\UserRepository.cs",
+              "RelativeToolTip": "Reopsitories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:31:17.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:28:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:36:12.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSeed.json",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\DataSeed.json",
+              "RelativeDocumentMoniker": "Data\\DataSeed.json",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\DataSeed.json",
+              "RelativeToolTip": "Data\\DataSeed.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAL8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T13:21:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241019161324_m1.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Migrations\\20241019161324_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019161324_m1.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Migrations\\20241019161324_m1.cs",
+              "RelativeToolTip": "Migrations\\20241019161324_m1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:13:24.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgeCalculationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Extensions\\AgeCalculationExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\AgeCalculationExtension.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Extensions\\AgeCalculationExtension.cs",
+              "RelativeToolTip": "Extensions\\AgeCalculationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:10:27.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Model\\Photo.cs",
+              "RelativeDocumentMoniker": "Model\\Photo.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Model\\Photo.cs",
+              "RelativeToolTip": "Model\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:02:00.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:14:47.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiddlewereExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\MiddleWare\\MiddlewereExceptions.cs",
+              "RelativeDocumentMoniker": "MiddleWare\\MiddlewereExceptions.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\MiddleWare\\MiddlewereExceptions.cs",
+              "RelativeToolTip": "MiddleWare\\MiddlewereExceptions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:07:40.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Errors\\APIExceptions.cs",
+              "RelativeDocumentMoniker": "Errors\\APIExceptions.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Errors\\APIExceptions.cs",
+              "RelativeToolTip": "Errors\\APIExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:03:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:10:22.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:08:33.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:27:29.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:53:04.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:36:26.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA2wC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:53:06.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:35:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Model\\AppUser.cs",
+              "RelativeToolTip": "Model\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:09:55.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatingAppAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DatingAppAPI.csproj",
+              "RelativeDocumentMoniker": "DatingAppAPI.csproj",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\DatingAppAPI.csproj",
+              "RelativeToolTip": "DatingAppAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T14:09:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T13:57:25.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\DatingApp\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:55:46.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

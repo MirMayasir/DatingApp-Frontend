@@ -1,0 +1,18 @@
+@if (error) {
+    <h5 class="text-danger">Error: {{error.message}}</h5>
+    <p class="font-weight-bold">Note: If you are seeing these errors the angular is not to blame?</p>
+    <p>What to do Next</p>
+    <ol>
+        <li>Open the chrome dev tools and check the failing network request in the network tab</li>
+        <li>Examine the URL of the faiking request</li>
+        <li>Reproduce the error in the postman</li>
+    </ol>
+
+    <p class="font-weight-bold">Following are the stack trace - 
+        check the first 2 lines this will tell u the error
+    </p>
+
+    <code class="mt-5" style="background-color: whitesmoke;">
+        {{error.message}}
+    </code>
+}
